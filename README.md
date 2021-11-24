@@ -4,9 +4,7 @@ Churn is when a customer stops doing business or ends a relationship with a comp
 
 In this repository, and end-to-end project is developed to predict Customer Churn in a Telecommunication Company.
 
-The project belongs to the DataCamp Platform.
-
-This project provides a roadmap to create custom customer churn models. 
+The project belongs to the DataCamp Platform and provides a roadmap to create custom customer churn models. 
 
 It is divided into four chapters related to the flow of data:
 
